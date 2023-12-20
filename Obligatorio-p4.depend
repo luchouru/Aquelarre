@@ -1,0 +1,539 @@
+# depslib dependency file v1.0
+1700701008 source:c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\fecha.cpp
+	"Fecha.h"
+
+1700701008 c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\fecha.h
+
+1700701008 source:c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\iteradorbrujas.cpp
+	"IteradorBrujas.h"
+
+1700702270 c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\iteradorbrujas.h
+	"Bruja.h"
+
+1700701008 c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\bruja.h
+	"String.h"
+	"Hechizos.h"
+
+1700701008 c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\string.h
+	<string.h>
+	"stdio.h"
+	<iostream>
+
+1700701008 source:c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\string.cpp
+	"String.h"
+
+1700701008 source:c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\suprema.cpp
+	"Suprema.h"
+
+1700701008 c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\suprema.h
+	"Bruja.h"
+	"Fecha.h"
+
+1700701008 source:c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\bruja.cpp
+	"Bruja.h"
+
+1700701008 source:c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\brujas.cpp
+	"Brujas.h"
+
+1700701008 c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\brujas.h
+	"IteradorBrujas.h"
+	"Comun.h"
+	"Suprema.h"
+
+1700701008 c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\comun.h
+	"Bruja.h"
+	"Suprema.h"
+
+1700701008 source:c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\comun.cpp
+	"Comun.h"
+
+1700701715 source:c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\main.cpp
+	"FachadaLogica.h"
+	"Fecha.h"
+	"Menu.h"
+
+1700701008 c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\fachadalogica.h
+	"Brujas.h"
+	"Hechizos.h"
+	"Especial.h"
+	"TipoError.h"
+
+1700701008 c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\hechizos.h
+	"Hechizo.h"
+	"Especial.h"
+
+1700701008 c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\hechizo.h
+	"String.h"
+
+1700701008 c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\tipoerror.h
+
+1700701008 source:c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\especial.cpp
+	"Especial.h"
+
+1700701008 c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\especial.h
+	"Hechizo.h"
+
+1700701008 source:c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\hechizo.cpp
+	"Hechizo.h"
+
+1700701008 source:c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\hechizos.cpp
+	"Hechizos.h"
+
+1700702248 source:c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\fachadalogica.cpp
+	"FachadaLogica.h"
+
+1700701594 source:c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\menu.cpp
+	"Menu.h"
+
+1700701008 c:\users\brand\onedrive\documentos\codeblocks\programacion4\obligatorio\obligatorio-p4\menu.h
+	<iostream>
+	"TipoError.h"
+
+1700490390 source:c:\users\merli\onedrive\escritorio\v1.2\bruja.cpp
+	"Bruja.h"
+
+1700490518 c:\users\merli\onedrive\escritorio\v1.2\bruja.h
+	"String.h"
+	"Hechizos.h"
+
+1700489476 c:\users\merli\onedrive\escritorio\v1.2\string.h
+	<string.h>
+	"stdio.h"
+	<iostream>
+
+1700490121 c:\users\merli\onedrive\escritorio\v1.2\hechizos.h
+	"Hechizo.h"
+	"Especial.h"
+
+1700489476 c:\users\merli\onedrive\escritorio\v1.2\hechizo.h
+	"String.h"
+
+1700489476 c:\users\merli\onedrive\escritorio\v1.2\especial.h
+	"Hechizo.h"
+
+1700492358 source:c:\users\merli\onedrive\escritorio\v1.2\brujas.cpp
+	"Brujas.h"
+
+1700489477 c:\users\merli\onedrive\escritorio\v1.2\brujas.h
+	"IteradorBrujas.h"
+	"Comun.h"
+	"Suprema.h"
+
+1700489476 c:\users\merli\onedrive\escritorio\v1.2\iteradorbrujas.h
+	"Bruja.h"
+
+1700490518 c:\users\merli\onedrive\escritorio\v1.2\comun.h
+	"Bruja.h"
+	"Suprema.h"
+
+1700490625 c:\users\merli\onedrive\escritorio\v1.2\suprema.h
+	"Bruja.h"
+	"Fecha.h"
+
+1700489476 c:\users\merli\onedrive\escritorio\v1.2\fecha.h
+
+1700490518 source:c:\users\merli\onedrive\escritorio\v1.2\comun.cpp
+	"Comun.h"
+
+1700489476 source:c:\users\merli\onedrive\escritorio\v1.2\especial.cpp
+	"Especial.h"
+
+1700489476 source:c:\users\merli\onedrive\escritorio\v1.2\fecha.cpp
+	"Fecha.h"
+
+1700489475 source:c:\users\merli\onedrive\escritorio\v1.2\hechizo.cpp
+	"Hechizo.h"
+
+1700490121 source:c:\users\merli\onedrive\escritorio\v1.2\hechizos.cpp
+	"Hechizos.h"
+
+1700492184 source:c:\users\merli\onedrive\escritorio\v1.2\iteradorbrujas.cpp
+	"IteradorBrujas.h"
+
+1700489476 source:c:\users\merli\onedrive\escritorio\v1.2\menu.cpp
+	"Menu.h"
+
+1700489476 c:\users\merli\onedrive\escritorio\v1.2\menu.h
+	<iostream>
+
+1700489475 source:c:\users\merli\onedrive\escritorio\v1.2\string.cpp
+	"String.h"
+
+1700490625 source:c:\users\merli\onedrive\escritorio\v1.2\suprema.cpp
+	"Suprema.h"
+
+1700491021 source:c:\users\merli\onedrive\escritorio\v1.2\fachadalogica.cpp
+	"FachadaLogica.h"
+
+1700491021 c:\users\merli\onedrive\escritorio\v1.2\fachadalogica.h
+	"Brujas.h"
+	"Hechizos.h"
+	"Especial.h"
+	"TipoError.h"
+
+1700490138 c:\users\merli\onedrive\escritorio\v1.2\tipoerror.h
+
+1700492693 source:c:\users\merli\onedrive\escritorio\v1.2\main.cpp
+	"FachadaLogica.h"
+	"Fecha.h"
+	"Menu.h"
+
+1700523799 source:c:\users\merli\onedrive\escritorio\v1.3\v1.3\bruja.cpp
+	"Bruja.h"
+
+1700523764 c:\users\merli\onedrive\escritorio\v1.3\v1.3\bruja.h
+	"String.h"
+	"Hechizos.h"
+
+1700489476 c:\users\merli\onedrive\escritorio\v1.3\v1.3\string.h
+	<string.h>
+	"stdio.h"
+	<iostream>
+
+1700523387 c:\users\merli\onedrive\escritorio\v1.3\v1.3\hechizos.h
+	"Hechizo.h"
+	"Especial.h"
+
+1700522410 c:\users\merli\onedrive\escritorio\v1.3\v1.3\hechizo.h
+	"String.h"
+
+1700489476 c:\users\merli\onedrive\escritorio\v1.3\v1.3\especial.h
+	"Hechizo.h"
+
+1700492358 source:c:\users\merli\onedrive\escritorio\v1.3\v1.3\brujas.cpp
+	"Brujas.h"
+
+1700489477 c:\users\merli\onedrive\escritorio\v1.3\v1.3\brujas.h
+	"IteradorBrujas.h"
+	"Comun.h"
+	"Suprema.h"
+
+1700489476 c:\users\merli\onedrive\escritorio\v1.3\v1.3\iteradorbrujas.h
+	"Bruja.h"
+
+1700490518 c:\users\merli\onedrive\escritorio\v1.3\v1.3\comun.h
+	"Bruja.h"
+	"Suprema.h"
+
+1700490625 c:\users\merli\onedrive\escritorio\v1.3\v1.3\suprema.h
+	"Bruja.h"
+	"Fecha.h"
+
+1700489476 c:\users\merli\onedrive\escritorio\v1.3\v1.3\fecha.h
+
+1700490518 source:c:\users\merli\onedrive\escritorio\v1.3\v1.3\comun.cpp
+	"Comun.h"
+
+1700489476 source:c:\users\merli\onedrive\escritorio\v1.3\v1.3\especial.cpp
+	"Especial.h"
+
+1700525036 source:c:\users\merli\onedrive\escritorio\v1.3\v1.3\fachadalogica.cpp
+	"FachadaLogica.h"
+
+1700491021 c:\users\merli\onedrive\escritorio\v1.3\v1.3\fachadalogica.h
+	"Brujas.h"
+	"Hechizos.h"
+	"Especial.h"
+	"TipoError.h"
+
+1700524286 c:\users\merli\onedrive\escritorio\v1.3\v1.3\tipoerror.h
+
+1700489476 source:c:\users\merli\onedrive\escritorio\v1.3\v1.3\fecha.cpp
+	"Fecha.h"
+
+1700524386 source:c:\users\merli\onedrive\escritorio\v1.3\v1.3\hechizo.cpp
+	"Hechizo.h"
+
+1700524339 source:c:\users\merli\onedrive\escritorio\v1.3\v1.3\hechizos.cpp
+	"Hechizos.h"
+
+1700492184 source:c:\users\merli\onedrive\escritorio\v1.3\v1.3\iteradorbrujas.cpp
+	"IteradorBrujas.h"
+
+1700489476 source:c:\users\merli\onedrive\escritorio\v1.3\v1.3\menu.cpp
+	"Menu.h"
+
+1700489476 c:\users\merli\onedrive\escritorio\v1.3\v1.3\menu.h
+	<iostream>
+
+1700489475 source:c:\users\merli\onedrive\escritorio\v1.3\v1.3\string.cpp
+	"String.h"
+
+1700490625 source:c:\users\merli\onedrive\escritorio\v1.3\v1.3\suprema.cpp
+	"Suprema.h"
+
+1700524541 source:c:\users\merli\onedrive\escritorio\v1.3\v1.3\main.cpp
+	"FachadaLogica.h"
+	"Fecha.h"
+	"Menu.h"
+
+1700683008 source:c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\bruja.cpp
+	"Bruja.h"
+
+1700683008 c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\bruja.h
+	"String.h"
+	"Hechizos.h"
+
+1700683008 c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\string.h
+	<string.h>
+	"stdio.h"
+	<iostream>
+
+1700683008 c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\hechizos.h
+	"Hechizo.h"
+	"Especial.h"
+
+1700683008 c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\hechizo.h
+	"String.h"
+
+1700683008 c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\especial.h
+	"Hechizo.h"
+
+1700683008 source:c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\brujas.cpp
+	"Brujas.h"
+
+1700683008 c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\brujas.h
+	"IteradorBrujas.h"
+	"Comun.h"
+	"Suprema.h"
+
+1700684270 c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\iteradorbrujas.h
+	"Bruja.h"
+
+1700683008 c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\comun.h
+	"Bruja.h"
+	"Suprema.h"
+
+1700683008 c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\suprema.h
+	"Bruja.h"
+	"Fecha.h"
+
+1700683008 c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\fecha.h
+
+1700683008 source:c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\comun.cpp
+	"Comun.h"
+
+1700683008 source:c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\especial.cpp
+	"Especial.h"
+
+1700684248 source:c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\fachadalogica.cpp
+	"FachadaLogica.h"
+
+1700683008 c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\fachadalogica.h
+	"Brujas.h"
+	"Hechizos.h"
+	"Especial.h"
+	"TipoError.h"
+
+1700683008 c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\tipoerror.h
+
+1700683008 source:c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\fecha.cpp
+	"Fecha.h"
+
+1700683008 source:c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\hechizo.cpp
+	"Hechizo.h"
+
+1700683008 source:c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\hechizos.cpp
+	"Hechizos.h"
+
+1700683008 source:c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\iteradorbrujas.cpp
+	"IteradorBrujas.h"
+
+1700718477 source:c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\main.cpp
+	"FachadaLogica.h"
+	"Fecha.h"
+	"Menu.h"
+
+1700683008 c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\menu.h
+	<iostream>
+	"TipoError.h"
+
+1700683008 source:c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\string.cpp
+	"String.h"
+
+1700683008 source:c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\suprema.cpp
+	"Suprema.h"
+
+1700718551 source:c:\users\ateliz\documents\estudios\ude\1. p4\codeblocks\obligatorio-p4\menu.cpp
+	"Menu.h"
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.6\bruja.cpp
+	"Bruja.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.6\bruja.h
+	"String.h"
+	"Hechizos.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.6\string.h
+	<string.h>
+	"stdio.h"
+	<iostream>
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.6\hechizos.h
+	"Hechizo.h"
+	"Especial.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.6\hechizo.h
+	"String.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.6\especial.h
+	"Hechizo.h"
+
+1700572323 source:c:\users\merli\onedrive\escritorio\v1.6\brujas.cpp
+	"Brujas.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.6\brujas.h
+	"IteradorBrujas.h"
+	"Comun.h"
+	"Suprema.h"
+
+1700572323 c:\users\merli\onedrive\escritorio\v1.6\iteradorbrujas.h
+	"Bruja.h"
+
+1700572323 c:\users\merli\onedrive\escritorio\v1.6\comun.h
+	"Bruja.h"
+	"Suprema.h"
+
+1700572323 c:\users\merli\onedrive\escritorio\v1.6\suprema.h
+	"Bruja.h"
+	"Fecha.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.6\fecha.h
+
+1700572323 source:c:\users\merli\onedrive\escritorio\v1.6\comun.cpp
+	"Comun.h"
+
+1700572323 source:c:\users\merli\onedrive\escritorio\v1.6\especial.cpp
+	"Especial.h"
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.6\fachadalogica.cpp
+	"FachadaLogica.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.6\fachadalogica.h
+	"Brujas.h"
+	"Hechizos.h"
+	"Especial.h"
+	"TipoError.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.6\tipoerror.h
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.6\fecha.cpp
+	"Fecha.h"
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.6\hechizo.cpp
+	"Hechizo.h"
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.6\hechizos.cpp
+	"Hechizos.h"
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.6\iteradorbrujas.cpp
+	"IteradorBrujas.h"
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.6\menu.cpp
+	"Menu.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.6\menu.h
+	<iostream>
+	"TipoError.h"
+
+1700572323 source:c:\users\merli\onedrive\escritorio\v1.6\string.cpp
+	"String.h"
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.6\suprema.cpp
+	"Suprema.h"
+
+1700577266 source:c:\users\merli\onedrive\escritorio\v1.6\main.cpp
+	"FachadaLogica.h"
+	"Fecha.h"
+	"Menu.h"
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.7\bruja.cpp
+	"Bruja.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.7\bruja.h
+	"String.h"
+	"Hechizos.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.7\string.h
+	<string.h>
+	"stdio.h"
+	<iostream>
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.7\hechizos.h
+	"Hechizo.h"
+	"Especial.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.7\hechizo.h
+	"String.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.7\especial.h
+	"Hechizo.h"
+
+1700572323 source:c:\users\merli\onedrive\escritorio\v1.7\brujas.cpp
+	"Brujas.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.7\brujas.h
+	"IteradorBrujas.h"
+	"Comun.h"
+	"Suprema.h"
+
+1700598438 c:\users\merli\onedrive\escritorio\v1.7\iteradorbrujas.h
+	"Bruja.h"
+
+1700572323 c:\users\merli\onedrive\escritorio\v1.7\comun.h
+	"Bruja.h"
+	"Suprema.h"
+
+1700572323 c:\users\merli\onedrive\escritorio\v1.7\suprema.h
+	"Bruja.h"
+	"Fecha.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.7\fecha.h
+
+1700572323 source:c:\users\merli\onedrive\escritorio\v1.7\comun.cpp
+	"Comun.h"
+
+1700572323 source:c:\users\merli\onedrive\escritorio\v1.7\especial.cpp
+	"Especial.h"
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.7\fachadalogica.cpp
+	"FachadaLogica.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.7\fachadalogica.h
+	"Brujas.h"
+	"Hechizos.h"
+	"Especial.h"
+	"TipoError.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.7\tipoerror.h
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.7\fecha.cpp
+	"Fecha.h"
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.7\hechizo.cpp
+	"Hechizo.h"
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.7\hechizos.cpp
+	"Hechizos.h"
+
+1700598683 source:c:\users\merli\onedrive\escritorio\v1.7\main.cpp
+	"FachadaLogica.h"
+	"Fecha.h"
+	"Menu.h"
+
+1700572324 c:\users\merli\onedrive\escritorio\v1.7\menu.h
+	<iostream>
+	"TipoError.h"
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.7\menu.cpp
+	"Menu.h"
+
+1700572323 source:c:\users\merli\onedrive\escritorio\v1.7\string.cpp
+	"String.h"
+
+1700572324 source:c:\users\merli\onedrive\escritorio\v1.7\suprema.cpp
+	"Suprema.h"
+
+1700599126 source:c:\users\merli\onedrive\escritorio\v1.7\iteradorbrujas.cpp
+	"IteradorBrujas.h"
+

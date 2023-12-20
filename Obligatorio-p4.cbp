@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Obligatorio-p4" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Obligatorio-p4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Obligatorio-p4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Bruja.cpp" />
+		<Unit filename="Bruja.h" />
+		<Unit filename="Brujas.cpp" />
+		<Unit filename="Brujas.h" />
+		<Unit filename="Comun.cpp" />
+		<Unit filename="Comun.h" />
+		<Unit filename="Especial.cpp" />
+		<Unit filename="Especial.h" />
+		<Unit filename="FachadaLogica.cpp" />
+		<Unit filename="FachadaLogica.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="Hechizo.cpp" />
+		<Unit filename="Hechizo.h" />
+		<Unit filename="Hechizos.cpp" />
+		<Unit filename="Hechizos.h" />
+		<Unit filename="IteradorBrujas.cpp" />
+		<Unit filename="IteradorBrujas.h" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
+		<Unit filename="String.cpp" />
+		<Unit filename="String.h" />
+		<Unit filename="Suprema.cpp" />
+		<Unit filename="Suprema.h" />
+		<Unit filename="TipoError.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
